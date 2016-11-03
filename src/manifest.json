@@ -12,7 +12,7 @@
 , "commands":
     { "play-pause" :
         { "suggested_key": 
-            { "default": "Ctrl+Shift+0" }
+            { "default": "MediaPlayPause" }
         , "description": "Send play-pause"
         , "global": true
         }
